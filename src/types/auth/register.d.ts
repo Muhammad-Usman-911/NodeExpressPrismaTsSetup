@@ -1,4 +1,4 @@
-import { Role } from '../constants/role';
+import { Role } from '../../constants/role';
 
 export interface RegisterDto {
     email: string;

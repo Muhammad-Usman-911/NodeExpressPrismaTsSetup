@@ -1,4 +1,4 @@
-import prisma from '../config/database';
+import prisma from '../client';
 import { EmailService } from './email.service';
 
 // Use string union type instead of enum to match Prisma
