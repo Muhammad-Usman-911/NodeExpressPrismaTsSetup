@@ -15,9 +15,6 @@ src/
 ├── controllers/
 │   ├── auth-controller.ts
 │   ├── user-controller.ts
-├── dto/
-│   ├── login-dto.ts
-│   ├── register-dto.ts
 ├── middleware/
 │   ├── logger-middleware.ts
 │   ├── validate-middleware.ts
